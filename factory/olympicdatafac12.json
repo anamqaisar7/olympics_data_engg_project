@@ -1,0 +1,9 @@
+{
+	"name": "olympicdatafac12",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d87b0e8e-c569-4bae-afa6-df1365c914ca",
+		"tenantId": "e7d5eae7-62d8-4172-bccf-974dd57f35b9"
+	}
+}
