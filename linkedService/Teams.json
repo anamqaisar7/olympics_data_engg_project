@@ -1,0 +1,12 @@
+{
+	"name": "Teams",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.com/anamqaisar7/olympics_data_engg_project/blob/master/data/Teams.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
