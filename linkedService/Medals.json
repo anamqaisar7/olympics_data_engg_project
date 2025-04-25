@@ -1,0 +1,12 @@
+{
+	"name": "Medals",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/anamqaisar7/olympics_data_engg_project/refs/heads/master/data/Medals.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
